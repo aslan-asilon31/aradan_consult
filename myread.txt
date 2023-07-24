@@ -1,0 +1,53 @@
+kini Aradan hadir dengan fitur baru yaitu Aradan Consult! membantu perusahaan dalam mengoptimalkan interaksi dengan pelanggan secara real time.
+kami siap menjawab pertanyaan pelanggan seperti konsultasi dan rekomendasi produk, masalah pembayaran, promosi dan diskon, keluhan dan feedback, dan masih banyak lagi.
+
+kenapa CRM penting ? :
+membantu perusahaan dalam mengoptimalkan interaksi dengan pelanggan, meningkatkan efisiensi operasional, dan menciptakan hubungan pelanggan yang lebih kuat dan berkelanjutan. Hal ini memiliki dampak positif pada reputasi perusahaan, pertumbuhan bisnis, dan keunggulan kompetitif di pasar.
+
+
+fitur-fitur umum dalam sistem CRM dapat mencakup:
+
+    Database Pelanggan: CRM menyediakan database terpusat yang menyimpan informasi lengkap tentang pelanggan, seperti nama, alamat, informasi kontak, riwayat pembelian, riwayat interaksi, preferensi, dan lainnya.
+
+    Manajemen Interaksi Pelanggan: Fitur ini memungkinkan perusahaan untuk melacak interaksi dengan pelanggan, seperti panggilan telepon, email, obrolan live chat, atau interaksi media sosial, sehingga semua departemen terkait dapat berkolaborasi dengan informasi yang konsisten.
+
+    Automasi Proses: CRM dapat mempercepat dan mengotomatiskan berbagai proses bisnis, termasuk otomatisasi tugas penugasan, pengiriman email, pengiriman pesan, dan proses penjualan.
+
+    Manajemen Penjualan: Memungkinkan tim penjualan untuk melacak dan mengelola prospek dan pelanggan, melihat proses penjualan, mengelola penawaran dan kesepakatan, serta memantau kinerja penjualan.
+
+    Pengelolaan Kampanye Pemasaran: Fitur ini membantu perusahaan dalam perencanaan, eksekusi, dan pelacakan hasil kampanye pemasaran. Hal ini dapat mencakup kampanye email, kampanye pemasaran digital, kampanye promosi, dan sebagainya.
+
+    Analitik Pelanggan: CRM biasanya menyediakan alat analisis yang memungkinkan perusahaan untuk mengidentifikasi tren, pola perilaku pelanggan, dan menganalisis kinerja bisnis. Informasi ini dapat membantu dalam pengambilan keputusan strategis.
+
+    Dukungan Pelanggan: Fitur dukungan pelanggan dalam CRM memungkinkan tim dukungan untuk melacak dan mengelola tiket masalah, menyediakan bantuan pelanggan yang efisien, dan memastikan masalah pelanggan diselesaikan dengan baik.
+
+    Integrasi dengan Aplikasi Lain: CRM sering kali dapat diintegrasikan dengan aplikasi lain yang digunakan dalam bisnis, seperti sistem keuangan, sistem inventaris, atau platform e-commerce.
+
+    Akses Berbasis Peran: Fitur ini memungkinkan pembatasan akses ke informasi tertentu berdasarkan peran pengguna, sehingga hanya pengguna yang memiliki izin dapat mengakses informasi khusus.
+
+    Cloud-Based atau On-Premise: CRM dapat disimpan di cloud (komputasi awan) atau di-host di server perusahaan (on-premise) tergantung pada preferensi dan kebutuhan perusahaan.
+
+
+=============================================================
+
+ Beberapa masalah pelanggan yang biasanya ditangani oleh CRM pada online shop meliputi:
+
+    Pertanyaan Produk: Pelanggan seringkali memiliki pertanyaan tentang produk yang ingin mereka beli, seperti spesifikasi, ukuran, bahan, dan fitur. CRM membantu menyimpan riwayat pertanyaan dan jawaban sehingga pelanggan dapat dengan mudah mendapatkan informasi yang mereka butuhkan.
+
+    Keluhan tentang Produk: Jika pelanggan mengalami masalah dengan produk yang mereka beli, mereka dapat mengajukan keluhan melalui sistem CRM. Tim layanan pelanggan dapat mengelola dan menangani keluhan ini dengan cepat dan efisien.
+
+    Pengembalian Produk: Jika pelanggan ingin mengembalikan produk karena alasan tertentu, CRM dapat membantu dalam melacak permintaan pengembalian, proses penerimaan barang kembali, dan mengawasi status pengembalian dana.
+
+    Pengiriman dan Pengaturan Pengiriman: Pelanggan mungkin memiliki pertanyaan tentang proses pengiriman, status pengiriman, atau masalah terkait jasa pengiriman. CRM memungkinkan perusahaan untuk memberikan informasi yang akurat dan memantau pengiriman barang dengan lebih baik.
+
+    Konsultasi dan Rekomendasi Produk: CRM dapat menyimpan informasi tentang preferensi pelanggan dan riwayat pembelian sebelumnya. Berdasarkan data ini, CRM dapat memberikan rekomendasi produk yang lebih relevan atau memberikan konsultasi produk yang sesuai dengan kebutuhan pelanggan.
+
+    Masalah Pembayaran: Jika terjadi masalah dengan pembayaran, seperti pembayaran gagal atau kesalahan dalam tagihan, CRM dapat membantu memproses dan memantau masalah pembayaran ini.
+
+    Promosi dan Diskon: CRM dapat digunakan untuk mengelola promosi dan diskon khusus bagi pelanggan tertentu, misalnya pelanggan setia atau pelanggan baru.
+
+    Program Loyalitas: CRM dapat digunakan untuk melacak program loyalitas dan memberikan manfaat kepada pelanggan yang berpartisipasi dalam program tersebut.
+
+    Follow-up: Setelah pembelian, CRM dapat membantu perusahaan melakukan follow-up dengan pelanggan untuk mendapatkan umpan balik tentang pengalaman mereka atau menawarkan layanan purna jual yang lebih baik.
+
+    Keluhan dan Umpan Balik: CRM memungkinkan pelanggan untuk menyampaikan keluhan atau memberikan umpan balik tentang pengalaman mereka dengan layanan atau produk. Hal ini membantu perusahaan untuk terus meningkatkan layanan dan kualitas produknya.
